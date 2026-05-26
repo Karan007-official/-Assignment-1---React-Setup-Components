@@ -80,7 +80,7 @@ my-react-app/
 ## 🖥️ Homepage Preview
 📸 Add your screenshot here:
 ```
-src/public/screenshots/homepage.png
+/public/screenshots/homepage.png
 ```
 
 
